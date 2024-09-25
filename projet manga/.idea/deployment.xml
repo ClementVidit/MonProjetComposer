@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Manga" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Manga">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Vidit_Clement/manga" local="$PROJECT_DIR$" web="Vidit_Clement/manga" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
